@@ -1,0 +1,8 @@
+#!/bin/bash
+
+<<<<<<< variant A
+echo "ALX School"
+>>>>>>> variant B
+echo "ALX School is so cool!"
+======= end
+
